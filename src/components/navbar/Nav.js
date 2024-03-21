@@ -12,22 +12,22 @@ function Nav() {
             <div className="left">
                 <ul>
                     <li>
-                        <Link to="/raymark tomas" className="link">States</Link>
+                        <Link to="/Raymark" className="link">Raymark</Link>
                     </li>
                     <li>
-                        <Link to="/Elijah Rafael Gaylan" className="link">Effect</Link>
+                        <Link to="/Elijah" className="link">Elijah</Link>
                     </li>
                     <li>
-                        <Link to="/Bryce Angeles" className="link">Map</Link>
+                        <Link to="/Bryce" className="link">Bryce</Link>
                     </li>
                     <li>
-                        <Link to="/Steven Villacruz" className="link">Hooks</Link>
+                        <Link to="/Steven" className="link">Steven</Link>
                     </li>
                     <li>
-                        <Link to="/Carlos Sobrevilla" className="link">Hooks</Link>
+                        <Link to="/Carlos" className="link">Carlos</Link>
                     </li>
                     <li>
-                        <Link to="/Peter Aguilar" className="link">Hooks</Link>
+                        <Link to="/Peter" className="link">Peter</Link>
                     </li>
                 </ul>
             </div>
