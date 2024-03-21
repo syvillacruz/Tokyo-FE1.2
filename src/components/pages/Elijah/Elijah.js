@@ -3,7 +3,7 @@ import "./errorstyles.css"
 
 function Error() {
   return (
-    <div className="content">This is an error page</div>
+    <div className="content">Elijah Raphael Gaylan SN2021103691</div>
   )
 }
 
