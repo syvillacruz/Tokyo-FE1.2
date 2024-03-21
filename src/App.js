@@ -25,10 +25,12 @@ function App() {
         {/* Using the Routes and Route components from react-router-dom */}
         <Routes>
           <Route path="/" element={<Template />}>
-            <Route path="/states" element={<States />} />
-            <Route path="/effect" element={<Effect />} />
-            <Route path="/map" element={<Map />} />
-            <Route path="/hooks" element={<Hooks />} />
+            <Route path="/Raymark Tomas" element={<Raymark />} />
+            <Route path="/Elijah Rafael Gaylan" element={<Elijah />} />
+            <Route path="/Bryce Angeles" element={<Bryce />} />
+            <Route path="/Steven Villacruz" element={<Steven />} />
+            <Route path="/Carlos Sobrevilla" element={<Carlos />} />
+            <Route path="/Peter Aguilar" element={<Peter />} />
             <Route path="*" element={<Error />} />
           </Route>
         </Routes>
