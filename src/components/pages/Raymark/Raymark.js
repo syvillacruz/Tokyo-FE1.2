@@ -3,7 +3,7 @@ import "./errorstyles.css"
 
 function Error() {
   return (
-    <div className="content">Raymark Tomas SN2019130629</div>
+    <div className="content">Raymark Tomas SN-2019130629</div>
   )
 }
 
