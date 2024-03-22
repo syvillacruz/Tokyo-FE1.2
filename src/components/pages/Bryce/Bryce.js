@@ -1,10 +1,10 @@
 import React from 'react'
-import "./errorstyles.css"
+import "./brycecstyles.css"
 
-function Error() {
+function Bryce() {
   return (
-    <div className="content">This is an error page</div>
+    <div className="content">Bryce Angeles SN2021101467</div>
   )
 }
 
-export default Error
+export default Bryce
