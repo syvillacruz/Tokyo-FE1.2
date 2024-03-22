@@ -1,10 +1,10 @@
 import React from 'react'
-import "./errorstyles.css"
+import "./carlstyles.css"
 
-function Error() {
+function Carl() {
   return (
-    <div className="content">This is an error page</div>
+    <div className="content">Carlos Louis T. Sobrevilla SN2021107887</div>
   )
 }
 
-export default Error
+export default Carl
